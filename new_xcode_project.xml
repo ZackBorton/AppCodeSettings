@@ -1,0 +1,11 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/Documents/Projects/Github/Swift" />
+    <string key="organizationName" value="BortonIndustries" />
+    <string key="languageChoice" value="Swift" />
+    <string key="bundleIdentifierPrefix" value="BortonIndustries" />
+    <boolean key="hasUnitTests" value="true" />
+    <string key="userInterface" value="SwiftUI" />
+    <boolean key="hasUITests" value="true" />
+  </component>
+</application>
